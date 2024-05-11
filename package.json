@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "promises": "^0.2.5",
+    "url": "^0.11.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
